@@ -8,3 +8,8 @@ if answer=="Central processing unit":
     print('Correct!')
 else:
     print("Incorrect")
+answer=input("What does GPU stand for?")
+if answer=="Graphical processing unit":
+    print('Correct!')
+else:
+    print("Incorrect")
