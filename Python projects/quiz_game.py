@@ -5,6 +5,7 @@ if playing !="yes":
 print("Okay!Let's play :)")
 answer=input("What does CPU stand for?")
 print("Remember, CPU is an abbreviation!")
+print("Remember, it is in your PC!!")
 if answer=="Central processing unit":
     print('Correct!')
 else:
