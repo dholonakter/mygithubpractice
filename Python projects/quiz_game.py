@@ -9,8 +9,10 @@ if answer=="Central processing unit":
 else:
     print("Incorrect")
 answer=input("What does GPU stand for?")
+
 print("this answer should not be visible")
 print(type(answer), "this is the type of the answer")
+
 if answer=="Graphical processing unit":
     print('Correct!')
 else:
