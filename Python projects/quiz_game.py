@@ -9,8 +9,10 @@ if answer=="Central processing unit":
 else:
     print("Incorrect")
 answer=input("What does GPU stand for?")
-print("here we are trying to create a merge conflict")
-print(answer)
+
+print("this answer should not be visible")
+print(type(answer), "this is the type of the answer")
+
 if answer=="Graphical processing unit":
     print('Correct!')
 else:
