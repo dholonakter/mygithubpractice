@@ -3,6 +3,7 @@ playing=input("Do you want to play? ")
 if playing !="yes":
     quit()
 print("Okay!Let's play :)")
+print("Learning merge conflicts")
 answer=input("What does CPU stand for?")
 print("Remember, CPU is an abbreviation!")
 print("Remember, it is in your PC!!")
